@@ -16,10 +16,10 @@ Escreval("Digite o valor total das vendas deste mês:")
 Leia(vendas)
 se vendas>1500 então
    salFinal<-salFixo+salFixo*(5/100)
-   Escreval(salFinal)
+   Escreval("Seu salário final será de R$",salFinal)
 senao
    salFinal<-salFixo+salFixo*(3/100)
-   
+   Escreval("Seu salário final será de R$",salFinal)
 fimse
 
 Fimalgoritmo
