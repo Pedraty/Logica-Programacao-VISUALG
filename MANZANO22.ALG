@@ -1,7 +1,7 @@
 Algoritmo "Manzano22"
 // Disciplina  : [Lógica de Programação com JavaScript]
 // Professor   : Obama
-// Descrição   :
+// Descrição   : Ler o número de horas trabalhadas em um mês, o salário por hora e escreva o salário total do funcionário, que deverá ser acrescido das horas extras, caso tenham sido trabalhadas
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 13/09/2022
 Var
