@@ -17,7 +17,7 @@ Inicio
    diferenca<-mesFuncionario-160
 
    se diferenca>0 então
-      salarioFinal<-(mesFuncionario*salarioHora)+(diferenca/2)*salarioHora
+      salarioFinal<-(mesFuncionario*salarioHora)+(diferenca*(15/10))*salarioHora
       Escreval("O salário final é de R$",salarioFinal)
    senão
       salarioFinal<-(mesFuncionario*salarioHora)
