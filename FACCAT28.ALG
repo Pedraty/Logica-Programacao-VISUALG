@@ -1,30 +1,30 @@
 Algoritmo "Manzano28"
-// Disciplina  : [LÛgica de ProgramaÁ„o com JavaScript]
+// Disciplina  : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Obama
-// DescriÁ„o   : Ler 3 valores diferentes e escrever o maior deles.
+// Descri√ß√£o   : Ler 3 valores diferentes e escrever o maior deles.
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 14/09/2022
 Var
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
    valor1,valor2,valor3:real
    p1:real
 
 Inicio
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
    Escreval("Digite o primeiro valor:")
    Leia(valor1)
-   Escreval("Digite um n˙mero diferente:")
+   Escreval("Digite um n√∫mero diferente:")
    Leia(valor2)
    Escreval("Digite outro valor totalmente diferente dos anteriores:")
    Leia(valor3)
-   se valor1>valor2 ent„o
+   se valor1>valor2 ent√£o
       p1<-valor1
-   sen„o
+   sen√£o
       p1<-valor2
    fimse
-   se valor3>p1 ent„o
+   se valor3>p1 ent√£o
       p1<-valor3
    fimse
-   Escreval(p1," È o maior!")
+   Escreval(p1," √© o maior!")
 
 Fimalgoritmo
