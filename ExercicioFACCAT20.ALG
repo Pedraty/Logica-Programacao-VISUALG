@@ -1,24 +1,24 @@
 Algoritmo "Manzano20"
-// Disciplina  : [LÛgica de ProgramaÁ„o com JavaScript]
+// Disciplina  : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Obama
-// DescriÁ„o   : Ler dois valores diferentes e escrevÍ-los em ordem crescente
+// Descri√ß√£o   : Ler dois valores diferentes e escrev√™-los em ordem crescente
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 13/09/2022
 Var
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
    valor1,valor2:real
 
 Inicio
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
    Escreval("Digite um valor: ")
    Leia(valor1)
    Escreval("Digite um valor diferente do primeiro: ")
    Leia(valor2)
-   se valor1>valor2 ent„o
+   se valor1>valor2 ent√£o
       Escreval(valor2,",",valor1)
-   sen„o
+   sen√£o
       Escreval(valor1,",",valor2)
-   fimse
+   fimse 
 
 
 Fimalgoritmo
