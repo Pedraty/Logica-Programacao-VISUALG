@@ -16,7 +16,7 @@ Inicio
    Leia(valor2)
    se valor1>valor2 então
       Escreval(valor2,",",valor1)
-   senão
+   senão 
       Escreval(valor1,",",valor2)
    fimse 
 
