@@ -1,24 +1,24 @@
 Algoritmo "Manzano19"
-// Disciplina  : [LÛgica de ProgramaÁ„o com JavaScript]
+// Disciplina  : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Obama
-// DescriÁ„o   : Ler dois valores diferentes e escrever o maior deles.
+// Descri√ß√£o   : Ler dois valores diferentes e escrever o maior deles.
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 13/09/2022
 Var
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
    valor1,valor2:real
 
 Inicio
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
    Escreval("Digite um valor: ")
    Leia(valor1)
    Escreval("Digite um valor diferente do primeiro: ")
    Leia(valor2)
-   se valor1>valor2 ent„o
-      Escreval(valor1," È maior!")
-   sen„o
-      Escreval(valor2," È maior")
+   se valor1>valor2 ent√£o
+      Escreval(valor1," √© maior!")
+   sen√£o
+      Escreval(valor2," √© maior")
    fimse
 
 
-Fimalgoritmo
+Fimalgoritmo 
