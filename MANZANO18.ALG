@@ -1,24 +1,24 @@
 Algoritmo "MANZANO18"
-// Disciplina  : [Lógica de Programação com JavaScript]
-// Professor   : Obama
-// Descrição   : Ler  o  ano  atual  e  o  ano  de  nascimento  de  uma  pessoa.  Escrever  uma mensagem  que  diga  se  ela poderá ou não votar este ano
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
+// Professor   : Obama 
+// DescriÃ§Ã£o   : Ler  o  ano  atual  e  o  ano  de  nascimento  de  uma  pessoa.  Escrever  uma mensagem  que  diga  se  ela poderÃ¡ ou nÃ£o votar este ano
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 13/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    anoAtual,anoNascimento,idade:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    Escreval("Digite o ano atual: ")
    Leia(anoAtual)
-   Escreval("Digite o ano em que você nasceu: ")
+   Escreval("Digite o ano em que vocÃª nasceu: ")
    Leia(anoNascimento)
    idade<-anoAtual-anoNascimento
-   se idade<18 então
-      Escreval("Você não pode votar este ano!")
-   senão
-      Escreval("Você pode votar este ano!")
+   se idade<18 entÃ£o
+      Escreval("VocÃª nÃ£o pode votar este ano!")
+   senÃ£o
+      Escreval("VocÃª pode votar este ano!")
    fimse
 
 Fimalgoritmo
