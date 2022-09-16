@@ -1,19 +1,19 @@
 Algoritmo "Antecessor"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Obama
-// Descrição   : Ler um valor do teclado e exibir como resposta o número antecessor.
+// DescriÃ§Ã£o   : Ler um valor do teclado e exibir como resposta o nÃºmero antecessor.
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 valor:inteiro
 antecessor:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 Escreval ("Digite um valor: ")
 Leia (valor)
 antecessor<-valor-1
-Escreval ("O antecessor do seu valor é: ",antecessor)
+Escreval ("O antecessor do seu valor Ã©: ",antecessor)
 
-Fimalgoritmo
+Fimalgoritmo 
