@@ -1,21 +1,21 @@
 Algoritmo "SOMA"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Obama
-// Descrição   : Realizar algorítmo de soma de dois números inteiros e exibir o resultado.
-// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
+// DescriÃ§Ã£o   : Realizar algorÃ­tmo de soma de dois nÃºmeros inteiros e exibir o resultado.
+// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva 
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 parcela1:inteiro
 parcela2:inteiro
 soma:real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 Escreval ("Digite a primeira parcela: ")
 Leia (parcela1)
 Escreval ("Digite a segunda parcela: ")
 Leia (parcela2)
 soma<-parcela1+parcela2
-Escreval ("A soma é: ",soma)
+Escreval ("A soma Ã©: ",soma)
 
 Fimalgoritmo
