@@ -17,3 +17,4 @@ sucessor<-valor+1
 Escreval ("O sucessor do seu valor é: ",sucessor)
 
 Fimalgoritmo 
+ 
