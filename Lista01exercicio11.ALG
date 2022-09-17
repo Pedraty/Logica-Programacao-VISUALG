@@ -1,18 +1,18 @@
-Algoritmo "Cálculo da área de um trapézio"
-// Disciplina  : [Lógica de Programação com JavaScript]
-// Professor   : Obama
-// Descrição   : Ler base maior, base menor, altura, calcular e escrever a área do trapézio
+Algoritmo "CÃ¡lculo da Ã¡rea de um trapÃ©zio"
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
+// Professor   : Obama 
+// DescriÃ§Ã£o   : Ler base maior, base menor, altura, calcular e escrever a Ã¡rea do trapÃ©zio
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 alturaDoTrapezio:real
 baseMenor:real
 baseMaior:real
 areaDoTrapezio:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 Escreval("Digite o comprimento da base maior")
 Leia(baseMaior)
 Escreval("Digite o comprimento da base menor")
@@ -20,6 +20,6 @@ Leia(baseMenor)
 Escreval("Digite o comprimento da altura")
 Leia(alturaDoTrapezio)
 areaDoTrapezio<-((baseMaior+baseMenor)*alturaDoTrapezio)/2
-Escreval("A área do trapézio é: ",areaDoTrapezio)
+Escreval("A Ã¡rea do trapÃ©zio Ã©: ",areaDoTrapezio)
 
 Fimalgoritmo
