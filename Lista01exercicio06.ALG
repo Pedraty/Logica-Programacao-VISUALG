@@ -1,22 +1,22 @@
-Algoritmo "Divis„o"
-// Disciplina  : [LÛgica de ProgramaÁ„o com JavaScript]
+Algoritmo "Divis√£o"
+// Disciplina  : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Obama
-// DescriÁ„o   : Inserir dois valores e exibir a divis„o destes
-// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
+// Descri√ß√£o   : Inserir dois valores e exibir a divis√£o destes
+// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva 
 // Data atual  : 31/08/2022
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis
+// Se√ß√£o de Declara√ß√µes das vari√°veis
 dividendo,divisor:inteiro
 quociente:real
 
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
 Escreval("Digite o primeiro valor")
 Leia(dividendo)
 Escreval("Digite o segundo valor")
 Leia(divisor)
 quociente<-dividendo/divisor
-Escreval("O quociente da raz„o È: ",quociente)
+Escreval("O quociente da raz√£o √©: ",quociente)
 
 Fimalgoritmo
