@@ -1,19 +1,19 @@
-Algoritmo "Cálculo da área de um quadrado"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "CÃ¡lculo da Ã¡rea de um quadrado"
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Obama
-// Descrição   : Ler lado, calcular e escrever a área do quadrado
-// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
+// DescriÃ§Ã£o   : Ler lado, calcular e escrever a Ã¡rea do quadrado
+// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva 
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 ladoDoQuadrado:real
 areaDoQuadrado:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 Escreval("Digite o comprimento do lado")
 Leia(ladoDoQuadrado)
 areaDoQuadrado<-ladoDoQuadrado^2
-Escreval("A área do quadrado é: ",areaDoQuadrado)
+Escreval("A Ã¡rea do quadrado Ã©: ",areaDoQuadrado)
 
 Fimalgoritmo
