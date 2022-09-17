@@ -1,21 +1,21 @@
-Algoritmo "Subtração"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "SubtraÃ§Ã£o"
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Obama
-// Descrição   : Inserção de dois valores e exibição da subtração deles
-// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
+// DescriÃ§Ã£o   : InserÃ§Ã£o de dois valores e exibiÃ§Ã£o da subtraÃ§Ã£o deles
+// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva 
 // Data atual  : 29/08/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 numero1,numero2:real
 subtracao:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-Escreval("Digite um número: ")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+Escreval("Digite um nÃºmero: ")
 Leia(numero1)
-Escreval("Digite outro número: ")
+Escreval("Digite outro nÃºmero: ")
 Leia(numero2)
 subtracao<-numero1-numero2
-Escreval("A subtração dos dois valores é:", subtracao)
+Escreval("A subtraÃ§Ã£o dos dois valores Ã©:", subtracao)
 
 Fimalgoritmo
