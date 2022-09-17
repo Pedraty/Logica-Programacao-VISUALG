@@ -1,21 +1,21 @@
-Algoritmo "Multiplicação"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "MultiplicaÃ§Ã£o"
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Obama
-// Descrição   : Inserir dois valores e exibir o produto destes
-// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
+// DescriÃ§Ã£o   : Inserir dois valores e exibir o produto destes
+// Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva 
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 fator1,fator2:inteiro
 produto:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 Escreval("Digite o primeiro valor")
 Leia(fator1)
 Escreval("Digite o segundo valor")
 Leia(fator2)
 produto<-fator1*fator2
-Escreval("O produto dos fatores é: ",produto)
+Escreval("O produto dos fatores Ã©: ",produto)
 
 Fimalgoritmo
