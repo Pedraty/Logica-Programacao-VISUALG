@@ -1,22 +1,22 @@
-Algoritmo "C·lculo da ·rea de um tri‚ngulo"
-// Disciplina  : [LÛgica de ProgramaÁ„o com JavaScript]
+Algoritmo "C√°lculo da √°rea de um tri√¢ngulo"
+// Disciplina  : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Obama
-// DescriÁ„o   : Ler lado e altura, calcular e escrever a ·rea do tri‚ngulo
+// Descri√ß√£o   : Ler lado e altura, calcular e escrever a √°rea do tri√¢ngulo 
 // Autor(a)    : Pedro Henrique Fonseca Teixeira da Silva
 // Data atual  : 31/08/2022
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis
+// Se√ß√£o de Declara√ß√µes das vari√°veis
 alturaDoTriangulo:real
 baseDoTriangulo:real
 areaDoTriangulo:real
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
 Escreval("Digite o comprimento da altura")
 Leia(alturaDoTriangulo)
 Escreval("Digite o comprimento da base")
 Leia(baseDoTriangulo)
 areaDoTriangulo<-(alturaDoTriangulo*baseDoTriangulo)/2
-Escreval("O ·rea do tri‚ngulo È: ",areaDoTriangulo)
+Escreval("O √°rea do tri√¢ngulo √©: ",areaDoTriangulo)
 
 Fimalgoritmo
