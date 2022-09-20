@@ -1,0 +1,66 @@
+taxa para cnpj
+
+taxa para cpf
+
+aplicação de um banco
+
+Ta copiando codigo filho?
+
+Algoritmo "Projeto01"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Obama
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 20/09/2022
+Var
+   // Seção de Declarações das variáveis
+   numero,numero1,agencia, conta:inteiro
+   nome:caracter
+
+Inicio
+   // Seção de Comandos, procedimento, funções, operadores, etc...
+   Escreval("Short Arm Bank")
+   Escreval("")
+   Escreval("Digite o seu nome :")
+   Leia(nome)
+   Escreval("Seja- bem vindo(a) :",nome, " Short Arm")
+   Escreval("")
+   Escreval("")
+   Escreval("Short Arm Bank")
+   Escreval("")
+   Escreval("1 - SALDO")
+   Escreval("2 - SAQUE")
+   Escreval("3 - DEPOSITO")
+   Escreval("4 - EMPRÉSTIMO")
+   Escreval("5 - TRANSFÊRENCIA")
+   Escreval("6 - PAGAR CONTAS")
+   Escreval("Short Arm Bank")
+   Escreval("")
+   Escreval("SELECIONE UMA OPÇÃO :")
+   Escreval("")
+   Leia (numero)
+   escolha numero
+   caso 1
+   limpatela
+      Escreval("Você selecionou a opção")
+      Escreval("SALDO")
+      Escreval("Digite o número de sua agência:")
+      Leia (agencia)
+      Escreval("")
+      Escreval("Digite o número de sua conta:")
+      Leia (conta)
+   caso 2
+      Escreval("Segunda")
+   caso 3
+      Escreval("Terça")
+   caso 4
+      Escreval("Quarta")
+   caso 5
+      Escreval("Quinta")
+   caso 6
+      Escreval("Sexta")
+      Escreval("")
+   outrocaso
+      Escreval("Não possui número correspondente")
+   fimescolha
+Fimalgoritmo
